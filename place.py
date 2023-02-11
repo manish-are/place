@@ -463,5 +463,16 @@ r.forward(100)
 r.left(135)
 r.forward(90.8)
 
-
+# test1
+r = Turtle()
+r.left(90)
+r.forward(100)
+r.right(90)
+r.forward(100)
+r.right(90)
+r.forward(50)
+r.right(90)
+r.forward(100)
+r.left(135)
+r.forward(90.8)
 
